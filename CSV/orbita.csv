@@ -1,0 +1,11 @@
+radio,Delta,Altura,Excentricidad,Forma,Geoestacionaria
+12,10.11,12000,0,circular,SI
+16,69.4,14000,0,circular,SI
+24,15.33,12569,3,elíptica,NO
+32,41,14000,10,elíptica,NO
+33,30.25,12623,5,elíptica,NO
+48,27.45,12452,0,circular,SI
+64,56.28,14000,0,circular,SI
+66,56.58,13500,0,circular,SI
+99,62.3,14000,4,elíptica,NO
+128,75.65,15000,13,elíptica,NO
